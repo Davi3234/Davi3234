@@ -25,7 +25,7 @@
 - 🔭 Currently, I'm working in Brazil-SC, at PontoGOVSistemas, in this company, my responsability is be a Full-Stack Developer PHP, the tecnologies I use is PHP, JQuery, PostgreSQL, HTML, CSS, Git and Docker.
 
 ## About interstings
-- 🌱 In system development, I'm interested by Back-End, I like to apply design pattern in pessoal projects and learn more and more.
+- 🌱 In system development, I'm interested by Back-End, I like to apply design pattern and SOLID in pessoal projects and learn more and more.
 - ⚡ I'm interested to learn more about laravel, TDD, Sonar, to apply in my pessoal projects.
 - 📫 To contact me, I have my email, is: davi.fadriano@gmail.com
 
