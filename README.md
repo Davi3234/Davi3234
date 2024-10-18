@@ -30,7 +30,7 @@
 - 📫 To contact me, I have my email, is: davi.fadriano@gmail.com
 
 ## Technologies
-<div style="display: flex; margin-bottom: 20px;">
+<div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
@@ -47,4 +47,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
+## Stats
 [![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi3234)](https://github.com/anuraghazra/github-readme-stats)
