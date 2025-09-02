@@ -19,7 +19,7 @@
 
 ## My degrees
 - In the High School, I learn about the introduction from the development, and I became passioned by the Systems Development.
-- Now I'm at UDESC, studying software engineering at college (4/8).
+- Now I'm at UDESC, studying software engineering at college (5/8).
 
 ## My Job
 - 🔭 Currently, I'm working in Brazil-SC, at PontoGOVSistemas, in this company, my responsability is be a Full-Stack Developer PHP, the tecnologies I use is PHP, JQuery, PostgreSQL, HTML, CSS, Git and Docker.
