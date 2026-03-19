@@ -2,14 +2,43 @@
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 
-## Hello! My name is Davi Gabriel Scottini Adriano 👋
-- I'm currently 20 years old, live in Brazil, Santa Catarina, Presidente Getúlio.
+## Hello! I'm Davi Gabriel Scottini Adriano 👋
 
-- I study Software Engineering at UDESC, is a public university and one of the best of Santa Catarina.
+- 🇧🇷 Brazilian, 20 years old, based in Santa Catarina  
+- 🎓 Software Engineering student at UDESC (6/8)  
+- 💻 Backend-focused Developer passionate about clean architecture and scalable systems  
 
-- In my free time, I like to play videogames, and pratice some sports like voleyball.
+---
 
-<h1 align="left">Social Medias</h1>
+## 🚀 About Me
+
+I’m currently working as a **Mid-Level Developer at IPM Sistemas**, in the Technology and Research team.  
+My work is focused on maintaining and evolving the company’s internal framework, applying **Design Patterns** and **Clean Code** principles to ensure scalability, maintainability, and code quality.
+
+I also work on **integrating the internal framework with microservices**, contributing to a more modular and efficient system architecture.
+
+Previously, I worked for 2 years as a **Full Stack Developer at PontoGOV Sistemas**, where I gained strong experience with legacy systems, backend development, and performance improvements. In 2025, I took on a **leadership role**, managing a development team and organizing weekly sprints.
+
+---
+
+## 🌱 Interests
+
+- Backend development and software architecture  
+- Design Patterns & SOLID principles  
+- Microservices and scalable systems  
+- Learning more about **Laravel, TDD, and code quality tools like Sonar**
+
+---
+
+## 📫 Contact
+
+- 📧 Email: davi.fadriano@gmail.com  
+- 💼 LinkedIn: https://br.linkedin.com/in/davi-gabriel-scottini-adriano-329935262  
+
+---
+
+## 🌐 Social Media
+
 <a href="https://www.instagram.com/davigabriels_/">
   <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
 </a> 
@@ -17,19 +46,10 @@
   <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
 </a>
 
-## My degrees
-- In the High School, I learn about the introduction from the development, and I became passioned by the Systems Development.
-- Now I'm at UDESC, studying software engineering at college (5/8).
+---
 
-## My Job
-- 🔭 Currently, I'm working in Brazil-SC, at PontoGOVSistemas, in this company, my responsability is be a Full-Stack Developer PHP, the tecnologies I use is PHP, JQuery, PostgreSQL, HTML, CSS, Git and Docker.
+## 🛠️ Technologies
 
-## About interstings
-- 🌱 In system development, I'm interested by Back-End, I like to apply design pattern and SOLID in pessoal projects and learn more and more.
-- ⚡ I'm interested to learn more about laravel, TDD, Sonar, to apply in my pessoal projects.
-- 📫 To contact me, I have my email, is: davi.fadriano@gmail.com
-
-## Technologies
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
@@ -47,5 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
-## Stats
+---
+
+## 📊 Stats
+
 [![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi3234)](https://github.com/anuraghazra/github-readme-stats)
