@@ -4,7 +4,7 @@
 
 ## Hello! I'm Davi Gabriel Scottini Adriano 👋
 
-- 🇧🇷 Brazilian, 20 years old, based in Santa Catarina  
+- 🇧🇷 Brazilian, 21 years old, based in Santa Catarina  
 - 🎓 Software Engineering student at UDESC (6/8)  
 - 💻 Backend-focused Developer passionate about clean architecture and scalable systems  
 
